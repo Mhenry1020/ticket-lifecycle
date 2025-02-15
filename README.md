@@ -1,3 +1,9 @@
+<p align="center">
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+</p>
+
+
+
 # osTicket Guide: Password Reset Ticket Workflow
 
 ## **1. Ticket Submission**
